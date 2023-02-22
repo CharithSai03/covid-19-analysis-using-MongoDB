@@ -2,6 +2,9 @@
 covid-19 analysis is done using PyMongo and created a web app for interactive simulation using streamlit
 (Directly run client.py file)
 
+
+<h2> Instructions to follow for creating GUI </h2>
+
 ### 1. connect PyMongo to MongoDB database:
   1. create a database named india in MongoDB compass
   2. Under india create two collections named 'covid_india' and 'users'
